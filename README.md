@@ -4,7 +4,7 @@ AlgoWiki - Builidng Knowledge Repositories
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/vicky002/AlgoWiki.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=%5Bobject%20Object%5D)
 
 
-On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place! 
+On the Internet, there is a lot of knowledge on different topics scarred over different sources. Most of the knowledge is either online on the web or with the people as human knowledge. I want to create this repository as a platform to bind this scarred piece of knowledge at one place!
 
 ## [Project Website](http://www.algowiki.in/)
 
@@ -12,7 +12,7 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 
 **Some of the links below contain only Pdfs books. We will add websites and video resources soon!**
 
-* [All about Competitve-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)
+* [All about Competitive-Programming](https://github.com/vicky002/AlgoWiki/blob/35ba2bc1ff92673eea81dc6eda8bb476719f00b5/Competitive-Programming/Competitive-Programming.md)
 * [Algorithms and Their Implement from different sources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Algorithms/Sources.md)
 * [Free Algorithm Books](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Algorithms-Data_Structures.md)
 * [Free Data Science Book pdfs](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Free-Books/Data%20Science.md)
@@ -34,7 +34,7 @@ On the Internet, there is a lot of knowledge on different topics scarred over di
 
 How to Contribute
 ==================
-We are collecting websites and resources! Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com 
+We are collecting websites and resources! Send files, pdfs, printed articles or your bookmark folder @tvicky002@gmail.com
 
 Read Our Contribution Page
 =======================
@@ -52,7 +52,7 @@ Topics
  -  Html
  -  Javascipt
  -  JQuery
- -  PHP, 
+ -  PHP,
  -  Django
 - Programming Languages:
  - C
@@ -65,4 +65,4 @@ Topics
 
 There are many topics, you can contribute to it – create topics add resources to it!
 
-Buid in :heart: with GitHub! 
+Buid in :heart: with GitHub!
